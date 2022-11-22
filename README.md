@@ -2,7 +2,10 @@
  
 Latam countries data from Rest Countries
 
+Demo: https://countries-api-by-cgbl.netlify.app/
+
 Api: https://restcountries.com/#filter-response
+
 Api documentation: https://github.com/mledoze/countries
 
 Design:
